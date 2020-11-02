@@ -3,7 +3,7 @@
 <h6> O <a href="https://www.urionlinejudge.com.br/judge/pt">URI Online Judge</a> é um repositório de problemas de programação. </h6>
 
 <p>💻  Soluções dos exercícios. </p>
-<p> Linguagem de Programação :left_right_arrow: C</p>
+<p> Linguagem de Programação C.</p>
 
 <p>Meu perfil:</p>
 
