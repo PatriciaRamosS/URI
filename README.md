@@ -1,11 +1,6 @@
-<h1 align="center">URI Online Judge</h1>
+<h1 align="center">🚀 🚀 URI Online Judge</h1>
 
-<p align="center">🚀 </p>
-
-<h1 align="center">
-    <a>🔗 URI</a>
-</h1>
-<p align="center">🚀 O URI Online Judge é um repositório de problemas de programação. </p>
+<h3 align="center"> O URI Online Judge é um repositório de problemas de programação. </h3>
 
 
 ### Features
