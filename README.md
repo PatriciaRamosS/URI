@@ -1,10 +1,33 @@
-# URI
-<h1 align="center">URI</h1>
+<h1 align="center">URI Online Judge</h1>
+
 <h4 align="center"> 
   
 	🚧  React Select 🚀 Em construção...  🚧
 </h4>
 
-<h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/banner.png" />
-</h1>
+module.exports = {
+  ignore: [
+    '**/~*/**',
+    '**/_*/**',
+    '**/icon/**',
+    '**/__tests__/**',
+    '**/style/**',
+    '**/locale/**',
+    '**/*-provider/**',
+    '**/*.json',
+  ],
+  modulePattern: [
+    {
+      pattern: /ConfigContext.*renderEmpty/ms,
+      module: '../empty',
+    },
+    {
+      pattern: /ConfigConsumer.*renderEmpty/ms,
+      module: '../empty',
+    },
+    {
+      pattern: /config-provider\/context.*renderEmpty/ms,
+      module: '../empty',
+    },
+  ],
+};
