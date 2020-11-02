@@ -1,2 +1,2 @@
 # URI
-Exercícios do URI Online Judge
+<h1 align="center">Nome do Projeto</h1>
