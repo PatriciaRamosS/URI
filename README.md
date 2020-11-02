@@ -1,33 +1,22 @@
 <h1 align="center">URI Online Judge</h1>
 
+<p align="center">🚀 </p>
+
+<h1 align="center">
+    <a>🔗 URI</a>
+</h1>
+<p align="center">🚀 O URI Online Judge é um repositório de problemas de programação. </p>
+
+
+### Features
+
+- [x] Iniciante
+- [ ] AD-HOC
+- [ ] STRINGS
+- [ ] ...
+
 <h4 align="center"> 
   
 	🚧  React Select 🚀 Em construção...  🚧
 </h4>
 
-module.exports = {
-  ignore: [
-    '**/~*/**',
-    '**/_*/**',
-    '**/icon/**',
-    '**/__tests__/**',
-    '**/style/**',
-    '**/locale/**',
-    '**/*-provider/**',
-    '**/*.json',
-  ],
-  modulePattern: [
-    {
-      pattern: /ConfigContext.*renderEmpty/ms,
-      module: '../empty',
-    },
-    {
-      pattern: /ConfigConsumer.*renderEmpty/ms,
-      module: '../empty',
-    },
-    {
-      pattern: /config-provider\/context.*renderEmpty/ms,
-      module: '../empty',
-    },
-  ],
-};
