@@ -2,7 +2,7 @@
 
 <h5> O <a href="https://www.urionlinejudge.com.br/judge/pt">URI Online Judge</a> é um repositório de problemas de programação. </h5>
 
-<p>Soluções exercícios - Uri-Online-Judge.</p>
+<p>:computer:Soluções exercícios - Uri-Online-Judge.</p>
 
 <p>Meu perfil:</p>
 
