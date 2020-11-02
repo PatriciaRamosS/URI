@@ -1,8 +1,8 @@
 <h1 align="center">🚀 🚀 URI Online Judge</h1>
 
-<h5> O <a href="https://www.urionlinejudge.com.br/judge/pt">URI Online Judge</a> é um repositório de problemas de programação. </h5>
+<h6> O <a href="https://www.urionlinejudge.com.br/judge/pt">URI Online Judge</a> é um repositório de problemas de programação. </h6>
 
-<p>:computer:Soluções exercícios - Uri-Online-Judge.</p>
+<p>💻  Soluções dos exercícios ➿ </p>
 
 <p>Meu perfil:</p>
 
@@ -17,6 +17,6 @@
 
 <h4 align="center"> 
   
-	🚧  C Select 🚀 Em construção...  🚧
+	🚧  C Select 🚀 Em construção... ⌛  🚧
 </h4>
 
